@@ -47,6 +47,6 @@ class Partita:
         area_relax.impostaStanzaOvest(aula_azzurra)
 
         self.stanzaCorrente = parcheggio
-        presidenza.stanza_vincente = True
+        area_relax.stanza_vincente = True
 
         print('Mappa Inizializzata')
