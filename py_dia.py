@@ -1,4 +1,4 @@
-from partita import Partita
+from partite import Partita
 
 class PyDia: 
 
